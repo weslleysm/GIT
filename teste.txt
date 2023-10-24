@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-teste principal 01
-=======
-teste secundario 02
->>>>>>> casa
+teste principal
